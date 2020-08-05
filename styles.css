@@ -1,0 +1,43 @@
+
+
+body{
+
+    background: #f5d9d5;
+    font-family: "Nunito", sans-serif;
+    text-align:center;
+}
+
+
+
+#pomodoro-timer {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    z-index: auto;
+    border: solid 21px rgb(222,192,222);
+    font-size: 50px;
+    color: #fff;
+    margin: auto;
+    margin-top: 100px;
+    
+    line-height: 500px;
+    
+    background: transparent;
+  }
+
+#pomodoro-clock-task{
+    position: relative;
+    margin: auto;
+    font-size: 50px;
+    
+}
+#pomodoro-clock-actions{
+    margin: auto; 
+    
+}
+button{
+   
+    font-size: 50px;
+    background:  #f5d9d5;
+    border: none;
+}
